@@ -25,7 +25,7 @@ Add new products
 ⚙️ Setup & Installation
 
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/product-management-api.git
+git clone https://github.com/SaiSundar-S/Products-Management-System.git
 cd product-management-api
 
 2️⃣ Configure H2 Database
